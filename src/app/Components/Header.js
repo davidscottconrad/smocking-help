@@ -2,7 +2,7 @@ import Image from "next/image";
 import ImageUploader from "./ImportImage";
 export default function Header() {
   return (
-    <div className="flex flex-col items-center justify-center h-screen px-6 text-center space-y-8">
+    <div className="flex flex-col items-center justify-center h-screen px-6 text-center space-y-">
       {/* Header section */}
       <div className="space-y-2">
         <h1 className="text-4xl font-bold">Smocking Help</h1>
